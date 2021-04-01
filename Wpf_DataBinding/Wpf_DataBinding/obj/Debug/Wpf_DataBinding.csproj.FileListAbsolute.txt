@@ -1,0 +1,15 @@
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.exe.config
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\bin\Debug\Wpf_DataBinding.pdb
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csprojAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\App.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding_MarkupCompile.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding_MarkupCompile.lref
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\MainWindow.baml
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.g.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csproj.GenerateResource.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_DataBinding\Wpf_DataBinding\obj\Debug\Wpf_DataBinding.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Wpf_DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="800">
+    <!-- 
+        4 Modes of Data Binding:
+        Binding Target: <- One Way  Binding Source
+        Binding Target: <- Two Way -> Binding Source
+        Binding Target: oneWayToSource -> Binding Source
+        Binding Target: <- Onetime Binding Source - Done in Constructor so only once during initialization
+    -->
+    <Grid>
+        <StackPanel Margin="-10,0,10,0">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"> One Way Data Binding Example (Press Tab)</TextBlock>
+            <!--  Example: One Way Data Binding -->
+            <TextBox Width="100" Margin="50" Text="{Binding ElementName=Slider1, Path=Value, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Slider IsSnapToTickEnabled="True" Name="Slider1" Minimum="0" Maximum="100"></Slider>
+
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15">Two Way Data Binding Example</TextBlock>
+            <!--  Example: Two Way Data Binding -->
+            <!-- The Text box is the target -->
+            <TextBox Width="100" Margin="50" Text="{Binding ElementName=Slider2, Path=Value, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <!-- Slider is the binding source-->
+            <Slider IsSnapToTickEnabled="True" Name="Slider2" Minimum="0" Maximum="100"></Slider>
+
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15">One Way To Source Data Binding Example</TextBlock>
+            <!--  Example: One Way to Source Data Binding -->
+            <!-- The Text box is the Source -->
+            <TextBox Width="100" Margin="50" Text="{Binding ElementName=Slider3, Path=Value, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <!-- Slider is the binding source-->
+            <Slider IsSnapToTickEnabled="True" Name="Slider3" Minimum="0" Maximum="100"></Slider>
+
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15">One Time To Source Data Binding Example</TextBlock>
+            <!--  Example: One Time to Source Example Data Binding -->
+            <!-- The Text box is the Source -->
+            <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=Slider4, Path=Value, Mode=OneWayToSource}"></TextBox>
+            <!-- Slider is the binding source-->
+            <Slider IsSnapToTickEnabled="True" Name="Slider4" Minimum="0" Maximum="100"></Slider>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>
