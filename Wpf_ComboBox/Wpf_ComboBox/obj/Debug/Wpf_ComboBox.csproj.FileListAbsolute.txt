@@ -1,0 +1,14 @@
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\App.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox_MarkupCompile.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\bin\Debug\Wpf_ComboBox.exe.config
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\bin\Debug\Wpf_ComboBox.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\bin\Debug\Wpf_ComboBox.pdb
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox_MarkupCompile.lref
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.g.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.csproj.GenerateResource.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ComboBox\Wpf_ComboBox\obj\Debug\Wpf_ComboBox.pdb
