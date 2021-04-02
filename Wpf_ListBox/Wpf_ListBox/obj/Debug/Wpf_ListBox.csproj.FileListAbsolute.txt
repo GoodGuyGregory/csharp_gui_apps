@@ -1,0 +1,15 @@
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.exe.config
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\bin\Debug\Wpf_ListBox.pdb
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csprojAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\App.g.cs
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox_MarkupCompile.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox_MarkupCompile.lref
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\MainWindow.baml
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.g.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.Properties.Resources.resources
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csproj.GenerateResource.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.exe
+C:\Users\Greg\Documents\GitHub\C#_Projects\Wpf_ListBox\Wpf_ListBox\obj\Debug\Wpf_ListBox.pdb
